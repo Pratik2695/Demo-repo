@@ -15,7 +15,7 @@ Local Development
 
 1. Install Git
 2. Clone the repository
-3. Run the application
+3. Run the application using Docker Compose
 
 
 ## System Requirements
